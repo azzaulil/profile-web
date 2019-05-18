@@ -12,7 +12,7 @@ class Contact extends Component {
                                 <div className="contact-left">
 
                                     <div className="map-area">
-                                        <div id="map"></div>
+                                        <img className="img-responsive" src="assets/images/logos.png" alt="Kambing" />
                                     </div>
                                     
                                     <div className="about-info">
