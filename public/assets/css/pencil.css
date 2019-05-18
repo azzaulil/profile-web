@@ -1,39 +1,5 @@
 @charset "UTF-8";
-/*!
 
-Theme Name: Pencil- Virtual Business Card CV Resume HTML Template 
-Author URI: https://themeforest.net/user/createuiux/portfolio
-Version : 1.0.1
-
-table content
-1.header-area
-2.pencil-content-area
-    2.1.profile-area
-    2.2.resume-area
-    2.3.service-area
-    2.4.portfolio-area
-    2.5.testimonia-area
-    2.6..contact-area
-    2.7.widget-area
-3.footer-area
-4.pagenation-area
-5.pencile-area-two
-6.pencil-content-area-two
-    6.1.profile-area
-    6.2.resume-area
-    6.3.service-area
-    6.4.portfolio-area
-    6.5.testimonia-area
-    6.6..contact-area
-    6.7.widget-area
-7.footer-area
-7.pagenation-area
-9.pencile-area-two
-
-*/
-/*--------------------  
-//
---------------------*/
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
