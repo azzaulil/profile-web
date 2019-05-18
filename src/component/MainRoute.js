@@ -12,6 +12,7 @@ function MainRoute(){
     return (
         <Switch>
             <Route exact path="/" component={Profile}/>
+            <Route path="/reactjs-terakhir/" component={Profile}/>
             <Route path="/profile" component={Profile}/>
             <Route path="/resume" component={Resume}/>
             <Route path="/services" component={Services}/>
