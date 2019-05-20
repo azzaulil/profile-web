@@ -10,11 +10,11 @@ class Testimonial extends Component {
                         <div className="row">
                             <div className="col-md-6 col-sm-12">
                                 <div className="single-testimonial">
-                                    <p>“ Nissimos ducimus qui blanditiis praesentium voluptatum deleniti
-                                        atque corrupti quos
-                                        dolores et quas molestias excepturi sint occaecati “</p>
+                                    <p>“ What an incredible! He is so proffesional actor. Really animating his role
+                                        and I've never seen him before but when I read some article, 
+                                        actually he has a good personality. He is humble person. “</p>
                                     <div className="title">
-                                        <h4>-Jhon Smith <span>Interface Designer</span> </h4>
+                                        <h4>-Vania Paramita <span>Fans</span> </h4>
                                     </div>
                                     <div className="icon">
                                         <i className="flaticon-quote-button"></i>
@@ -23,11 +23,10 @@ class Testimonial extends Component {
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <div className="single-testimonial">
-                                    <p>“ Nissimos ducimus qui blanditiis praesentium voluptatum deleniti
-                                        atque corrupti quos
-                                        dolores et quas molestias excepturi sint occaecati “</p>
+                                    <p>“ I was watching his movie and I always like his performance. 
+                                        His acting so awesome. I think he is really great actor in future. “</p>
                                     <div className="title">
-                                        <h4>-Jhon Smith <span>Web Developer</span> </h4>
+                                        <h4>-Selena Gomez <span>Singer and Actress</span> </h4>
                                     </div>
                                     <div className="icon">
                                         <i className="flaticon-quote-button"></i>
@@ -36,11 +35,10 @@ class Testimonial extends Component {
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <div className="single-testimonial">
-                                    <p>“ Nissimos ducimus qui blanditiis praesentium voluptatum deleniti
-                                        atque corrupti quos
-                                        dolores et quas molestias excepturi sint occaecati “</p>
+                                    <p>“ You have to watch every his movie. He looks incredible in 
+                                        animating his role. That's right. I like him “</p>
                                     <div className="title">
-                                        <h4>-Jhon Smith<span>Graphic Designer</span> </h4>
+                                        <h4>-Rara<span>Fashion Designer</span> </h4>
                                     </div>
                                     <div className="icon">
                                         <i className="flaticon-quote-button"></i>
@@ -49,11 +47,9 @@ class Testimonial extends Component {
                             </div>
                             <div className="col-md-6 col-sm-12">
                                 <div className="single-testimonial">
-                                    <p>“ Nissimos ducimus qui blanditiis praesentium voluptatum deleniti
-                                        atque corrupti quos
-                                        dolores et quas molestias excepturi sint occaecati “</p>
+                                    <p>“ Nice dude! I like on your show, as always. Good job Ben. I'll waiting your next movie “</p>
                                     <div className="title">
-                                        <h4>-Jhon Smith<span>Interface Designer</span> </h4>
+                                        <h4>-Andry Fritzent<span>Actor</span> </h4>
                                     </div>
                                     <div className="icon">
                                         <i className="flaticon-quote-button"></i>
